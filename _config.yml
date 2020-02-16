@@ -1,0 +1,28 @@
+title:              "습관은 곧 당신의 운명이 된다."
+tagline:            "watch your habits, for they become your character."
+email:              "beyond166@gmail.com"
+description:        "블로그 설명"
+author:             "MJ"
+baseurl:            "/"
+url:                "https://myungji.kim"
+locale:             "ko_KR"
+thumbnail:          "/img/thumbnail.jpg"
+
+# Social Profiles
+twitter_username:   
+instagram_username:
+facebook_username:
+linkedin_username:
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+# 블로그 disqus shortname
+disqus:
+  shortname: myungjikim
