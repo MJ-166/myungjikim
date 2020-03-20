@@ -6,13 +6,10 @@ author:             "MJ"
 baseurl:            "/"
 url:                "https://myungji.kim"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/thumbnail2.jpg"
 
 # Social Profiles
-twitter_username:   
-instagram_username:
-facebook_username:
-linkedin_username:
+
 
 # Build settings
 markdown:           kramdown
