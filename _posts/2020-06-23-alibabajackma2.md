@@ -5,6 +5,7 @@ title: '알리바바 마윈의 12가지 인생강의 - 2편'
 date: 2020-06-23 00:09:00 +09:00
 feature: '/img/posts/011/blog10-thumbnail.jpg'
 background: '/img/posts/011/blog10-background.jpg'
+content_id: '011'
 categories:
   - bookreview
 tags:
