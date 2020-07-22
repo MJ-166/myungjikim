@@ -5,7 +5,7 @@ title: '방탄커피 창시자 데이브 아스프리 최강의 식사'
 date: 2020-04-04 00:09:00 +09:00
 feature: '/img/posts/006/blog6-thumbnail.jpg'
 background: '/img/posts/006/blog6-background.jpg'
-content_id: '006'
+content_id: 'id006'
 categories:
   - bookreview
 tags:

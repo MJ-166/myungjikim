@@ -5,7 +5,7 @@ title: '존리의 부자되기 습관'
 date: 2020-04-30 00:09:00 +09:00
 feature: '/img/posts/008/blog8-thumbnail.jpg'
 background: '/img/posts/008/blog8-background.jpg'
-content_id: '008'
+content_id: 'id008'
 categories:
   - bookreview
 tags:
